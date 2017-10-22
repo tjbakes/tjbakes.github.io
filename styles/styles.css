@@ -1,0 +1,30 @@
+nav{
+	background-color: lightblue ;
+
+}
+
+.navbar-brand.nat-title{
+	color: white;
+}
+
+.nav-item .nav-link.nav-menu-item {
+	color: white;
+}
+
+.bgimage{
+	background: url("../imgs/dog1.jpg") no-repeat center;
+	background-size: cover;
+	background-position: top right;
+}
+
+.intro{ 
+	color: white;
+	position: center;
+	float: bottom;
+	font-size:80px;
+	font-family: calbri;
+	margin-top: 35vh;
+	padding-right: 15vw;
+	padding-left: 15vw;
+}
+
